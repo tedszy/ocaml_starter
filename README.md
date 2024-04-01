@@ -17,7 +17,7 @@ Note that ```more_code``` has been capitalized to denote a module.
 
 ## Configure utop
 
-If the default utop look-and-feel drives you crazy then you can simplify it with these steps:
+If the default utop look-and-feel drives you crazy then you can simplify it by following these steps:
 
 - Go to utop github repo and get the file [```utoprc-dark```](https://github.com/ocaml-community/utop/blob/master/utoprc-dark). Copy it to your home directory and rename it to ```.utoprc```
 
